@@ -1,2 +1,2 @@
 # hello-world
-Just say hello
+print "Just say hello~"
